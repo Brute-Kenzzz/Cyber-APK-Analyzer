@@ -65,7 +65,7 @@ Cyber-APK-Analyzer/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Brute-Kenzzz
+git clone https://github.com/Brute-Kenzzz/Cyber-APK-Analyzer
 ```
 
 ## Navigate Into Project
