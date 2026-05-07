@@ -58,17 +58,6 @@ Cyber-APK-Analyzer/
 
 ---
 
-# Screenshots
-
-## Main Interface
-_Add screenshot here_
-
-## Analysis Workflow
-_Add screenshot here_
-
-## Terminal Output
-_Add screenshot here_
-
 ---
 
 # How to Run
